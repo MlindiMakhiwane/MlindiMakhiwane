@@ -1,7 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Mlindi! <br/> <a>Auditor and Data analyst</a>
+
+<h2>👨‍💻 Data Project:</h2>
+
+- <b>Taste of the World project (SQL and Power BI)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <!--
-**MlindiMakhiwane/MlindiMakhiwane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
