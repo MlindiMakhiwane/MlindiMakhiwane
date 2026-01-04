@@ -1,9 +1,9 @@
-<h1>Hi, I'm Mlindi! <br/> <a>Auditor and Data analyst</a>
+<h1>Hi, I'm Mlindi! <br/> <a>Auditor and Data Analyst</a>
 
 <h2>👨‍💻 Data Project:</h2>
 
 - <b>Taste of the World project (SQL)</b>
-  - [Praciting DS & Algos in Python](https://github.com/MlindiMakhiwane/Taste-of-the-World-SQL-)
+  - [Praciting T-SQL](https://github.com/MlindiMakhiwane/Taste-of-the-World-SQL-)
 
 
 <!--
