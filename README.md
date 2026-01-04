@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Project:</h2>
 
-- <b>Taste of the World project (SQL and Power BI)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Taste of the World project (SQL)</b>
+  - [Praciting DS & Algos in Python](https://github.com/MlindiMakhiwane/Taste-of-the-World-SQL-)
 
 
 <!--
