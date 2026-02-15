@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Project:</h2>
 
-- <b>Taste of the World project (SQL)</b>
-  - [Praciting T-SQL](https://github.com/MlindiMakhiwane/Taste-of-the-World-SQL-)
+- <b>Taste of the World project (SQL & Power BI)</b>
+  - [Praciting (T-SQL & Power BI)](https://github.com/MlindiMakhiwane/Taste-of-the-World-SQL-)
 
 
 <!--
